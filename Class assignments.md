@@ -115,6 +115,8 @@ http://tianyix.hosting.nyu.edu/blog/hacking-smart-toys/low-fidelity-design-the-w
 
 * Tianyi Xie: http://tianyix.hosting.nyu.edu/blog/hacking-smart-toys/research-paper-takeaways/
 
+* Arnab: https://www.aboltaabol.me/blog/2019/4/5/animistic-design-and-bringing-toys-to-life
+
 # Sixt-week assignment
 Add links to mid-term project documentation 
 
